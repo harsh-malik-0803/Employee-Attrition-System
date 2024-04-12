@@ -20,7 +20,7 @@ I trained and evaluated 7 supervised machine learning classification models.
 6. Support Vector Machine
 7. K-Nearest Neighbors
 
-I trained our models on 6 different datasets: Imabalanced , Undersampled , Oversampled , PCA
+Models trained on following datasets: Imabalanced , Undersampled , Oversampled , PCA
 
 To get the best performance : 
 1) hyperparameter tuning was carried out using RandomSearchCV and GridSearchCV.
